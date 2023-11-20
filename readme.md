@@ -1,14 +1,3 @@
----
-title: GraphQL in 1 Hour
-separator: <!--s-->
-verticalSeparator: <!--v-->
-# theme: moon
-revealOptions:
-  transition: "slide"
-  center: true
-  maxScale: 1.0
----
-
 # GraphQL Crash Course
 
 ## Ready in 1 hour or it's free
